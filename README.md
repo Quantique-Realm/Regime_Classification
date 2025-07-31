@@ -48,20 +48,3 @@ This project focuses on classifying market regimes (e.g., bull, bear, high volat
 | Backtesting           | Backtrader           |
 
 ---
-
-## 🗂 Project Structure
-
-```plaintext
-Regime_Classification/
-├── data/                  # Raw & processed data
-├── notebooks/             # Jupyter notebooks for each stage
-├── src/                   # Core source code
-│   ├── data_loader.py
-│   ├── feature_engineering.py
-│   ├── hmm_model.py
-│   ├── visualization.py
-│   └── strategy.py
-├── results/               # Plots, results, output files
-├── README.md              # Project documentation
-├── requirements.txt       # Python dependencies
-└── LICENSE
