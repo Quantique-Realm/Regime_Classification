@@ -40,10 +40,9 @@ This project focuses on classifying market regimes (e.g., bull, bear, high volat
 | Category              | Tools/Libraries Used |
 |-----------------------|----------------------|
 | Language              | Python               |
-| Notebooks             | Jupyter, Google Colab|
-| Data APIs             | Yahoo Finance, Alpha Vantage, Quandl |
+| Data APIs             | Yahoo Finance,       |
 | Preprocessing         | Pandas, NumPy        |
-| Feature Engineering   | TA-Lib, SciPy        |
+| Feature Engineering   | SciPy                 |
 | Modeling              | hmmlearn, scikit-learn |
 | Visualization         | Matplotlib, Plotly, Seaborn |
 | Backtesting           | Backtrader           |
